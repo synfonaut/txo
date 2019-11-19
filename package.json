@@ -13,7 +13,7 @@
     "txo": "./index.js"
   },
   "peerDependencies": {
-    "bsv": "0.27.1"
+    "bsv": "1.0.0"
   },
   "dependencies": {
     "bitcoind-rpc": "^0.7.2",
